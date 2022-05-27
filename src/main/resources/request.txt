@@ -1,0 +1,16 @@
+Host: xxy.51xuexiaoyi.com
+Connection: keep-alive
+Content-Length: 68
+Cookie: odin_tt=29a0f962cea95ffe3af0be48eee508bc89d6597379375a26a6e0769404ae5a455c7f2d982f1f78b848f24c4120030212ba153a7d2b2ec854eb699ed995e9064f7cb479fa17dea33c204a0e4218a8765b; uid_tt=ed232fa5042578870f9efeffd06c5250; uid_tt_ss=ed232fa5042578870f9efeffd06c5250; sid_tt=40c5888989d9ce1d4bc9205a7b6de118; sessionid=40c5888989d9ce1d4bc9205a7b6de118; sessionid_ss=40c5888989d9ce1d4bc9205a7b6de118; sid_guard=40c5888989d9ce1d4bc9205a7b6de118%7C1653060946%7C5184000%7CTue%2C+19-Jul-2022+15%3A35%3A46+GMT
+x-vc-bdturing-sdk-version: 2.1.0.cn
+sdk-version: 2
+X-Tt-Token: 0040c5888989d9ce1d4bc9205a7b6de118000e8a65ac48c09db4ba87eec249d7eb6a8c3e6a932b9d889577d3a171bce77e2f04fd0270e33715fa979d6ad1e4127558751caffca48595bae3478bd35d7111abc7d51d59969a404d97aba5b4279af36a0-1.0.1
+passport-sdk-version: 21
+Content-Type: application/x-protobuf
+X-SS-STUB: 86B8444A1DC6C34AA2CA18359BB12394
+x-tt-trace-id: 00-ff991be40d25463c020073038d25ffff-ff991be40d25463c-01
+User-Agent: com.xuexiaoyi.xxy/10300 (Linux; U; Android 10; zh_CN; M2004J7AC; Build/QP1A.190711.020; Cronet/TTNetVersion:921ec9e4 2021-07-19 QuicVersion:6ad2ee95 2021-04-06)
+X-Argus: knOAeRYY37hfvyxhVltRM8DJAxw+eQjjSQPZ3fpT+vEkIF7E7XInr9MRVaJkmI+vWg+XjPgd9dvLK8Q9djatjOKvds1c1mPnQaC5+TG/MduuSzafjw3JJhhJGWxH7ucrtA/PH8NPolGgn2Yvjl10g58YHSF8QW8M5aEwN9Swxfy/dRnakGGY1p2+tImXYJj4MQiitPiP+fDqjmYwUiY3KXG74UEbTYoEqNZv/43e0u3zoyfVO5CY/A4Bx3cH691vRhR1dxBGbmKshcZJ+467akUh
+X-Gorgon: 0404c0ff0000a6ef99d8218dba209288d62830cf26e826b3680b
+X-Khronos: 1653555665
+X-Ladon: AbIES+7St3KD/6lOu5a1PwYoOyyFikXIXDEtu9VMhD8s4tJy
