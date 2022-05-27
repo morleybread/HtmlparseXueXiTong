@@ -1,5 +1,7 @@
 # Htmlparsing 一个基于学小易的超星学习通搜题工具 
 
+由于官方更改了技术 暂时不推荐使用本项目
+
 配置： 
 
     在Htmlparse/src/main/resources
